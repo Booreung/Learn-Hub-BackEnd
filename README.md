@@ -16,3 +16,5 @@
 
 <hr>
 <strong>- UI/UX</strong> : <a href="https://www.figma.com/design/CgVm1YYDae8gz1UusM7zVr/Home-Learn?node-id=1755-2&t=HLT8cS6fB0eN4JUs-0"></a>https://www.figma.com/design/CgVm1YYDae8gz1UusM7zVr/Home-Learn?node-id=1755-2&t=HLT8cS6fB0eN4JUs-0
+<br><br>
+<strong>- 시스템 아키텍처</strong> : 
