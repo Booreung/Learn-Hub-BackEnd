@@ -17,5 +17,4 @@
 <hr>
 <strong>- UI/UX</strong> : <a href="https://www.figma.com/design/CgVm1YYDae8gz1UusM7zVr/Home-Learn?node-id=1755-2&t=HLT8cS6fB0eN4JUs-0"></a>https://www.figma.com/design/CgVm1YYDae8gz1UusM7zVr/Home-Learn?node-id=1755-2&t=HLT8cS6fB0eN4JUs-0
 <br><br>
-<strong>- 시스템 아키텍처</strong> : ![image](https://github.com/user-attachments/assets/1515c56e-83e2-48ac-9cdf-34de87a46ec0)
-
+<strong>- 시스템 아키텍처</strong> :<br> <img src="https://github.com/user-attachments/assets/1515c56e-83e2-48ac-9cdf-34de87a46ec0"></img>
